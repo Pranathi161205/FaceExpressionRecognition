@@ -4,14 +4,15 @@ import base64
 import numpy as np
 import cv2
 from tensorflow.keras.models import load_model
+from my_layers import CustomLayer
 
 app = Flask(__name__)
 CORS(app)
 
 # Load trained model
 
-
-model = load_model("emotion_model.h5", compile=False)
+model.save("emotion_model_tf", save_format="tf")
+model = load_model("emotion_model_tf")
 
 emotion_labels = ['angry','disgust','fear','happy','neutral','sad','surprise']
 
