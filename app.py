@@ -5,7 +5,7 @@ import numpy as np
 import cv2
 from tensorflow.keras.models import load_model
 
-
+import os
 app = Flask(__name__)
 CORS(app)
 
@@ -97,5 +97,8 @@ def detect():
         return jsonify({"emotion": "Processing Error", "confidence": 0})
 
 
+
+
 if __name__ == "__main__":
-    app.run(debug=True, port=5000)
+    port = int(os.environ.get("PORT", 5000))
+    app.run(host="0.0.0.0", port=port)
