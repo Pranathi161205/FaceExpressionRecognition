@@ -6,7 +6,9 @@ from PIL import Image
 
 # Load model
 
-model.save("emotion_model_tf213.h5")
+
+
+model = load_model("emotion_model_tf213.h5")
 emotion_labels = [
     "Angry",
     "Disgust",
