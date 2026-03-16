@@ -13,7 +13,6 @@ CORS(app)
 
 
 model = load_model("emotion_model.h5")
-
 emotion_labels = ['angry','disgust','fear','happy','neutral','sad','surprise']
 
 # Load face detector

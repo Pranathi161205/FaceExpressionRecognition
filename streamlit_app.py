@@ -5,8 +5,8 @@ from tensorflow.keras.models import load_model
 from PIL import Image
 
 # Load model
-model = load_model("emotion_model.h5")
 
+model.save("emotion_model_tf213.h5")
 emotion_labels = [
     "Angry",
     "Disgust",
