@@ -1,9 +1,5 @@
 streamlit
+tensorflow-cpu==2.13.0
 opencv-python-headless
-tensorflow
-pillow
 numpy
-Flask
-gunicorn
-flask-cors
-torchvision
+Pillow
