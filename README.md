@@ -1,3 +1,4 @@
+<img width="302" height="441" alt="Screenshot 2026-03-19 180739" src="https://github.com/user-attachments/assets/ba97267f-d8d8-4e6e-94b5-8129208a7a7e" />
 ﻿#  Facial Expression Recognition (FER)
 
 A Deep Learning based Facial Expression Recognition system that detects human emotions from facial images in real-time.
@@ -99,6 +100,7 @@ python app.py
 ## 📸 Screenshots
 
 
+<img width="302" height="441" alt="Screenshot 2026-03-19 180739" src="https://github.com/user-attachments/assets/15349359-eda7-41ff-9fa6-741097a95a0d" />
 
 ---
 
