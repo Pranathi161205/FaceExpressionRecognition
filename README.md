@@ -54,24 +54,24 @@ FER_Project/
 
 ##  Installation
 
-1️⃣ Clone the repository
+1️ Clone the repository
 
 git clone https://github.com/Pranathi161205/FacialExpressionRecognition-FER-.git
 
 
-2️⃣ Navigate to project folder
+2️ Navigate to project folder
 
 
 cd FacialExpressionRecognition-FER-
 
 
-3️⃣ Create virtual environment
+3️ Create virtual environment
 
 
 python -m venv fer_env
 
 
-4️⃣ Install dependencies
+4️ Install dependencies
 
 
 pip install -r requirements.txt
@@ -79,7 +79,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Usage
+##  Usage
 
 To run the application:
 
@@ -89,7 +89,7 @@ python app.py
 
 ---
 
-## 📊 Model Performance
+##  Model Performance
 
 - Training Accuracy: 65%
 - Validation Accuracy:57.33 %
@@ -97,7 +97,7 @@ python app.py
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 
 <img width="302" height="441" alt="Screenshot 2026-03-19 180739" src="https://github.com/user-attachments/assets/15349359-eda7-41ff-9fa6-741097a95a0d" />
