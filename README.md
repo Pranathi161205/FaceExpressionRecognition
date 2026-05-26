@@ -102,11 +102,10 @@ python app.py
 
 <img width="302" height="441" alt="Screenshot 2026-03-19 180739" src="https://github.com/user-attachments/assets/15349359-eda7-41ff-9fa6-741097a95a0d" />
 
+<img width="339" height="516" alt="sc4" src="https://github.com/user-attachments/assets/166d93e4-9c6f-457f-ab1f-76ab2e05c9b2" />
+
+
 ---
-
-## 🎥 Demo Video
-
-
 
 ---
 
