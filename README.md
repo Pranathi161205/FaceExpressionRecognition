@@ -104,6 +104,13 @@ python app.py
 
 <img width="339" height="516" alt="sc4" src="https://github.com/user-attachments/assets/166d93e4-9c6f-457f-ab1f-76ab2e05c9b2" />
 
+<img width="427" height="449" alt="sc3" src="https://github.com/user-attachments/assets/c9296b11-03bd-4c59-924b-2b0791327163" />
+
+<img width="329" height="458" alt="s5" src="https://github.com/user-attachments/assets/f275d8ae-2415-44a1-a64f-af7a694abf97" />
+
+<img width="494" height="475" alt="sc2" src="https://github.com/user-attachments/assets/9a36ef25-0b73-4b03-a8c2-966475a49029" />
+
+
 
 ---
 
